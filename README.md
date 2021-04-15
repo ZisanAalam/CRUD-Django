@@ -11,7 +11,7 @@ This is a basic CRUD project on djanog framework. It's a small system where user
 ## Screenshorts
 <img align="left" src="https://github.com/ZisanAalam/CRUD-Django/blob/main/screenshorts/image1.PNG" width="200" height="200" />
 <img align="left" src="https://github.com/ZisanAalam/CRUD-Django/blob/main/screenshorts/image2.PNG" width="200" height="200" />
-<img align="left" src="https://github.com/ZisanAalam/CRUD-Django/blob/main/screenshorts/image3.PNG" width="200" height="200" />
+<img src="https://github.com/ZisanAalam/CRUD-Django/blob/main/screenshorts/image3.PNG" width="200" height="200" />
 
 
 ## Installation
